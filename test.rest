@@ -1,0 +1,8 @@
+POST http://localhost:3030 HTTP/1.1
+Digest: SHA-256=121242342343242342
+
+{
+    "app_id": "59fd884d8f6b180001f5b4e2",
+    "app_name": "iOS App",
+    "user_id": "abcdef"
+}
